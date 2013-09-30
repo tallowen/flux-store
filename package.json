@@ -1,7 +1,12 @@
 {
-  "name": "flux-stores",
+  "name": "flux-store",
   "description": "Flux like stores without facebook's arbiter",
-  "version": "0.0.1",
+  "main": "store.js",
+  "version": "0.0.2",
+  "repository": {
+    "type" : "git"
+  , "url" : "http://github.com/tallowen/flux-store.git"
+  },
   "license": {
   	"type": "MPL 2.0",
   	"url": "https://www.mozilla.org/MPL/2.0/"
