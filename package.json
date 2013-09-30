@@ -1,0 +1,12 @@
+{
+  "name": "flux-stores",
+  "description": "Flux like stores without facebook's arbiter",
+  "version": "0.0.1",
+  "license": {
+  	"type": "MPL 2.0",
+  	"url": "https://www.mozilla.org/MPL/2.0/"
+  },
+  "devDependencies": {
+    "signals": "~1.0.0"
+  }
+}
